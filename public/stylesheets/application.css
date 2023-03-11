@@ -125,17 +125,17 @@ button.cancel:hover {
   cursor: pointer;
 }
 
+li {
+  margin: 0.5rem auto;
+  padding: 0.5rem 2rem;
+}
+
 .flash {
   font-size: 1.25rem;
   font-weight: bold;
   list-style-position: inside;
-  margin: 0 2rem;
+  margin: 0.5rem 2rem;
   max-width: 100%;
-}
-
-.flash li {
-  margin: 0.5rem auto;
-  padding: 0.5rem 2rem;
 }
 
 .error {
